@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Pytest
+.cache
+
+# VSCode
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos relacionados a informes y gráficos
+images/
+*.html
+reporte_final.html
